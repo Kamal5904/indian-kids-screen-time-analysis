@@ -3,7 +3,13 @@
 ## 📌 Project Overview  
 This project analyzes the **screen time habits of Indian kids** based on factors such as **urban vs rural lifestyle, devices used, and health impacts**.  
 The goal is to perform **Exploratory Data Analysis (EDA)** and extract meaningful insights.
-
+Analyzing screen time patterns among Indian children across urban-rural contexts using Exploratory Data Analysis with Python.
+---
+## 📂 Project Structure
+├── Indian kids screentime analysis.ipynb  
+├── Indian_Kids_Screen_Time.csv  
+├── requirements.txt  
+└── README.md  
 ---
 
 ## ⚙️ Dataset  
@@ -43,12 +49,9 @@ The goal is to perform **Exploratory Data Analysis (EDA)** and extract meaningfu
 
 ## 🚀 How to Run the Project  
 ```bash
-# Clone repo
-git clone https://github.com/YOUR-USERNAME/indian-kids-screen-time-analysis.git
+
+git clone https://github.com/Kamal5904/indian-kids-screen-time-analysis.git
 cd indian-kids-screen-time-analysis
-
-# Install requirements
 pip install -r requirements.txt
-
-# Open notebook
 jupyter notebook "Indian kids screentime analysis.ipynb"
+
